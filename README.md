@@ -8,7 +8,7 @@ Author : AsikAhamed
 
 3.last seen code
 
-4.Attachements (Image , Audio , Video) code
+4.Attachements (Image , Audio , Video ,Documents) code
 
 5.Hiding the last seen
 
